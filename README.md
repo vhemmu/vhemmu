@@ -80,6 +80,15 @@ Developed a console-based payroll management system capable of managing employee
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vhemmu&theme=tokyonight&hide_border=true" />
 </p>
+  <p align="center">
+  <img width="400" height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zwayth&layout=compact&theme=dark">
+</p>
+ 
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=zwayth&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 📫 Connect With Me
 
 <p align="center">
