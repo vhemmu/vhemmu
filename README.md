@@ -19,6 +19,7 @@ I'm an aspiring **Data Analyst** with **4+ years of professional experience** in
 I enjoy transforming raw data into meaningful reports and interactive dashboards using **Microsoft Excel**, while continuously expanding my expertise in **SQL**, **Power BI**, and **Front-End Web Development**.
 
 Currently pursuing a **Bachelor of Computer Applications (BCA)** and building real-world projects that strengthen my analytical thinking, problem-solving, and development skills.
+
 🛠 Tech Stack
 
 Languages
