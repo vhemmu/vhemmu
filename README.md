@@ -20,6 +20,7 @@ Currently strengthening my skills in SQL, Power BI, JavaScript, and Data Analyti
 - 🌱 Currently learning SQL, Power BI, JavaScript, and React
 - 🚀 Building practical Data Analytics and Front-End projects
 - 📍 Surat, Gujarat, India
+  
 🛠️ Tech Stack
 
 ### Languages
@@ -48,7 +49,7 @@ Currently strengthening my skills in SQL, Power BI, JavaScript, and Data Analyti
 
 Built an interactive HR Analytics Dashboard to manage employee records, attendance, payroll, recruitment, and leave tracking. The dashboard includes KPI cards, Pivot Tables, charts, and automated reporting to support data-driven HR decisions.
 
-🔗 **Repository:** https://github.com/vhemmu/Enterprise-HR-Analytics-Dashboard
+🔗[View Repository](https://github.com/vhemmu/Enterprise-HR-Analytics-Dashboard)
 
 ---
 
@@ -57,9 +58,8 @@ Built an interactive HR Analytics Dashboard to manage employee records, attendan
 
 Designed and developed a responsive personal portfolio website showcasing my projects, technical skills, and contact information. Deployed using GitHub Pages.
 
-🔗 **Repository:** https://github.com/vhemmu/portfolio-website
-
-🌍 **Live Demo:** https://vhemmu.github.io/portfolio-website/
+🔗 [View Repository](https://github.com/vhemmu/portfolio-website)  
+🌐 [Live Demo](https://vhemmu.github.io/portfolio-website/)
 
 ---
 
