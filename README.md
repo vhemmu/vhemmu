@@ -69,3 +69,13 @@ Designed and developed a responsive personal portfolio website showcasing my pro
 Developed a console-based payroll management system capable of managing employee records, salary calculations, and payroll reports using file handling and structured programming concepts.
 
 🔗 **Repository:** https://github.com/vhemmu/Payroll-Management-System
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vhemmu&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhemmu&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vhemmu&theme=tokyonight&hide_border=true" />
+</p>
