@@ -79,3 +79,19 @@ Developed a console-based payroll management system capable of managing employee
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vhemmu&theme=tokyonight&hide_border=true" />
 </p>
+📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:vhemmu23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hemantverma2026/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/vhemmu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://vhemmu.github.io/portfolio-website/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
