@@ -92,7 +92,11 @@ Developed a console-based payroll management system capable of managing employee
   <a href="https://github.com/vhemmu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://vhemmu.github.io/portfolio-website/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://buymeacoffee.com/vhemmu" target="_blank">
+  <img
+    src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
+    alt="Buy Me A Coffee"
+    style="height: 21px !important;width: 96px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"
+  >
   </a>
-</p>
+  </p>
