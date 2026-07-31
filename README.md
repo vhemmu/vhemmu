@@ -81,12 +81,19 @@ Developed a console-based payroll management system capable of managing employee
   <img src="https://streak-stats.demolab.com?user=vhemmu&theme=tokyonight&hide_border=true" />
 </p>
   <p align="center">
-  <img width="400" height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zwayth&layout=compact&theme=dark">
+  <img
+    width="400"
+    height="200"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vhemmu&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
- 
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=zwayth&style=for-the-badge&color=orange" alt=""/>
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=vhemmu&style=for-the-badge&color=orange"
+    alt="Profile Views"
+  />
 </div>
 
 📫 Connect With Me
