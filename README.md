@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Hemant Verma.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Building+Data-Driven+Solutions;Learning+SQL+%7C+Power+BI+%7C+JavaScript" alt="Typing SVG" />
 </p>
