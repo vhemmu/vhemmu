@@ -14,19 +14,29 @@ Currently strengthening my skills in SQL, Power BI, JavaScript, and Data Analyti
 </p>
 👨‍💻 About Me
 
-I'm an aspiring **Data Analyst** with **4+ years of professional experience** in accounting, HR administration, and business operations.
+- 🎓 Pursuing a Bachelor of Computer Applications (BCA)
+- 💼 4+ years of professional experience in Accounting & HR Administration
+- 📊 Passionate about Data Analytics, Dashboard Development, and Business Reporting
+- 🌱 Currently learning SQL, Power BI, JavaScript, and React
+- 🚀 Building practical Data Analytics and Front-End projects
+- 📍 Surat, Gujarat, India
+🛠️ Tech Stack
 
-I enjoy transforming raw data into meaningful reports and interactive dashboards using **Microsoft Excel**, while continuously expanding my expertise in **SQL**, **Power BI**, and **Front-End Web Development**.
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,mysql" />
+</p>
 
-Currently pursuing a **Bachelor of Computer Applications (BCA)** and building real-world projects that strengthen my analytical thinking, problem-solving, and development skills.
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-🛠 Tech Stack
+### Currently Learning
 
-Languages
-HTML CSS JavaScript C SQL
-
-Tools
-Excel Power BI Git GitHub VS Code
-
-Currently Learning
-React
+- SQL
+- Power BI
+- JavaScript
+- React
