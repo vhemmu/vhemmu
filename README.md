@@ -40,3 +40,32 @@ Currently strengthening my skills in SQL, Power BI, JavaScript, and Data Analyti
 - Power BI
 - JavaScript
 - React
+
+🚀 Featured Projects
+
+### 📊 Enterprise HR Analytics Dashboard
+**Tech:** Microsoft Excel • Pivot Tables • Charts • Dashboard
+
+Built an interactive HR Analytics Dashboard to manage employee records, attendance, payroll, recruitment, and leave tracking. The dashboard includes KPI cards, Pivot Tables, charts, and automated reporting to support data-driven HR decisions.
+
+🔗 **Repository:** https://github.com/vhemmu/Enterprise-HR-Analytics-Dashboard
+
+---
+
+### 🌐 Portfolio Website
+**Tech:** HTML • CSS • GitHub Pages
+
+Designed and developed a responsive personal portfolio website showcasing my projects, technical skills, and contact information. Deployed using GitHub Pages.
+
+🔗 **Repository:** https://github.com/vhemmu/portfolio-website
+
+🌍 **Live Demo:** https://vhemmu.github.io/portfolio-website/
+
+---
+
+### 💻 Payroll Management System
+**Tech:** C Programming
+
+Developed a console-based payroll management system capable of managing employee records, salary calculations, and payroll reports using file handling and structured programming concepts.
+
+🔗 **Repository:** https://github.com/vhemmu/Payroll-Management-System
